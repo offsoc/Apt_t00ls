@@ -6,8 +6,16 @@
 
 ## 贡献者名单
 
-<div><table frame=void>
+<div>
+	<table frame=void>
 	<tr>
+	<td align="center">
+            <img src="./image/luckyh.jpg"
+                  alt="Typora-Logo"
+                  height="80"/>
+            <br>
+            <a href="https://github.com/stop-bullshit"><sub>luckyh</sub></a>
+        </td>
         <td align="center">
             <img src="./image/I0veD.jpg"
                   alt="Typora-Logo"
@@ -23,7 +31,8 @@
             <a href="https://github.com/stop-bullshit"><sub>luckyh</sub></a>
         </td>
     </tr>
-</table></div>
+</table>
+</div>
 
 ---
 
