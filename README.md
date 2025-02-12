@@ -14,7 +14,7 @@
                   alt="Typora-Logo"
                   height="80"/>
             <br>
-            <a href="https://github.com/stop-bullshit"><sub>luckyh</sub></a>
+            <a href="https://github.com/stop-bullshit"><sub>Gec</sub></a>
         </td>
         <td align="center">
             <img src="./image/I0veD.jpg"
