@@ -10,11 +10,11 @@
 	<table frame=void>
 	<tr>
 	<td align="center">
-            <img src="./image/luckyh.jpg"
+            <img src="https://avatars.githubusercontent.com/u/40447710"
                   alt="Typora-Logo"
                   height="80"/>
             <br>
-            <a href="https://github.com/stop-bullshit"><sub>Gec</sub></a>
+            <a href="https://github.com/Geccccc"><sub>Gec</sub></a>
         </td>
         <td align="center">
             <img src="./image/I0veD.jpg"
